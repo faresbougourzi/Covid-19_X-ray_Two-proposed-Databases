@@ -50,7 +50,7 @@ The recognition of Covid-19 infection from the X-ray images is an emerging field
 
 ## Contributions
 
-This work was collaboratively conducted by Edoardo Vantaggiato, Emanuela Paladini, Fares Bougourzi, Cosimo Distante, Abdelmalik Taleb-Ahmed, Hadid Abdenour.  
+This work was collaboratively conducted by Edoardo Vantaggiato, Emanuela Paladini, Fares Bougourzi, Cosimo Distante, Abdelmalik Taleb-Ahmed and Hadid Abdenour.  
 
 ### Citation
 Paper [link](https://www.mdpi.com/1424-8220/21/5/1742)
